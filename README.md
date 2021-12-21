@@ -5,7 +5,7 @@ Hellow!, im OPstriker a Developer Who Works Most of the Time Alone on Private Pr
 
 
 ## 🛠 Tools and Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width:"50" height:"50"/>
 
 ## ➕ Some Other Info
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OPstriker&show_icons=true&theme=tokyonight)
