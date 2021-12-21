@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-#### Hellow!, im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.
+#### Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.
 
 
 ## 🛠 Tools and Languages (Not Mastered But Still Learning)
