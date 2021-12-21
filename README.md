@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellow there 👋
 
 - 🔭 I’m currently working on a Private C/C++ Project.
 - 🌱 I’m currently learning C/C++, Python, Node.js/JavaScript and a Slight Amount of Web Development.
