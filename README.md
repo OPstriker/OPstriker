@@ -4,7 +4,7 @@
 Hellow!, im OPstriker a Developer Who Works Most of the Time Alone on Private Projects.
 
 
-## 🛠 Tools and Languages
+## 🛠 Tools and Languages (Not Mastered But Still Learning)
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
