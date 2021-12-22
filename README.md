@@ -24,4 +24,6 @@
 </div>
 
 ## ➕ Some Other Info
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=OPstriker&show_icons=true&theme=tokyonight)
+</p>
