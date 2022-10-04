@@ -1,11 +1,11 @@
 
 
 ## 🚀 About Me
-Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.
+<p align=center>Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.</p>
 
 
 ## 🛠 Tools and Languages (Not Mastered But Still Learning)
-<div>
+<div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
@@ -22,4 +22,6 @@ Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone o
 </div>
 
 ## ➕ Some Other Info
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OPstriker&show_icons=true&theme=tokyonight&hide_border=true)
+<div align=center>
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=OPstriker&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
