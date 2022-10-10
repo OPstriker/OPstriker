@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-<p align=center>Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.</p>
+<p align=center><b>Hellow!, Im OPstriker a Self-Taught Developer Who Works Most of the Time Alone on Private Projects.</b></p>
 
 
 ## 🛠 Tools and Languages (Not Mastered But Still Learning)
