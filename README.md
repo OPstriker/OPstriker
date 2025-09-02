@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-<p align=center><b>Hello! I'm a self-taught developer who does Robotics and Web/App development.</b></p>
+<p align=center><b>Hello! I'm a dev who does Robotics and Web/App development.</b></p>
 
 ## 🛠 Tools and Languages (Not Mastered But Still Learning)
 <div align="center">
