@@ -3,7 +3,7 @@
 ## 🚀 About Me
 <p align=center><b>Hello! I'm a dev who does Robotics and Web/App development.</b></p>
 
-## 🛠 Tools and Languages (Not Mastered But Still Learning)
+## 🛠 Tools and Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
