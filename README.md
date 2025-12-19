@@ -1,7 +1,7 @@
 
 
 ## 🚀 About Me
-<p align=center><b>Hello! I'm a dev who does Robotics and Web/App development.</b></p>
+<p align=center><b>Hello! I'm a robotics and web/app dev</b></p>
 
 ## 🛠 Tools and Languages
 <div align="center">
