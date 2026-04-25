@@ -1,9 +1,9 @@
 
 
-## 🚀 About Me
-<p align=center><b>Hello! I'm a robotics and web/app dev</b></p>
+## 🚀 About me
+<p align=center><b>Hello! I'm a web/app dev studying CS + AI @ Northeastern</b></p>
 
-## 🛠 Tools and Languages
+## 🛠 Tools and languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=aws" />
 </div>
 
-## ➕ Some Other Info
+## ➕ Some extra info
 <div align=center>
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=OPstriker&show_icons=true&theme=nord&hide_border=true" />
 </div>
